@@ -26,7 +26,7 @@
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "titlePreset": "Hair Stylist",
       "nameSelectPreset": "hair-stylist",
@@ -86,7 +86,7 @@
     "versionPublish": "5.9.15",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/image-2024-01-25-at-3-01-pm.webp",
-    "mbrsiteDomain": "qhsicebqrj",
+    "mbrsiteDomain": "xvnlm1tkzp",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
